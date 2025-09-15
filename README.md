@@ -72,6 +72,20 @@ MySQL, PostgreSQL, SQLite
 
 ---
 
+### 📚 Publications
+
+- **An Evaluation of Machine Learning Models for Analyzing Disaster-Related Tweets**  
+  *2024 7th International Conference on Information and Computer Technologies (ICICT)* — Jun 3, 2024  
+  This paper investigates supervised machine learning approaches for classifying Twitter posts as disaster-related or not to support improved emergency response. It compares six models, including GAP 1d, GRU, RNN, LSTM, BERT, and SBERT, using over 10,000 tweets, highlighting their promise and challenges in disaster management contexts.  
+  [Read more](https://ieeexplore.ieee.org/document/10541769)
+
+- **Credit Card Fraud Detection: A Comparative Analysis of Machine Learning Models**  
+  *SSRN (Social Science Research Network)* — Dec 13, 2023  
+  This research explores machine learning techniques for detecting fraudulent credit card transactions. By comparing key models, the study provides insights to enhance fraud detection systems for financial institutions.  
+  [Read more](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4749459)
+
+---
+
 ### 🌐 Let’s Connect
 
 💬 I enjoy collaborating on **AI innovation**, **intelligent automation**, and **backend-heavy systems**.  
