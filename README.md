@@ -1,11 +1,15 @@
-👋 Hi there! I'm Sangeeta Kumawat, a passionate Full-stack Developer and AI enthusiast. With a Master's in Artificial Intelligence from Kent State University and over 5 years of professional experience, I'm dedicated to crafting innovative solutions that leverage the power of technology to solve real-world problems.
+Full Stack Developer & AI Engineer | Architecting Scalable, Python-Powered Intelligent Systems
 
-🚀 My journey in software development began with a curiosity for building things that make a difference. From developing scalable e-commerce platforms to pioneering cross-platform mobile applications, I've had the privilege of working on diverse projects that have shaped my skills and fueled my passion for creating impactful software.
+I specialize in building robust, end-to-end applications that merge full-stack development with cutting-edge AI. With a strong foundation in Python and cloud-native architectures, I design intelligent systems that are scalable, secure, and production-ready.
 
-💻 As a Full-stack Developer, I thrive in the intersection of frontend and backend technologies. My expertise spans across a wide range of technologies, including React, Angular, Node.js, Python, Django, and more. I'm committed to delivering high-quality, performant solutions that enhance user experiences and drive business growth.
+Past experience includes:
+• Building backend systems in Python using Django, FastAPI, and Flask
+• Developing dynamic frontends with React, Vue.js, and TypeScript
+• Designing RESTful & GraphQL APIs and architecting microservices
+• Integrating AI/ML solutions using Azure AI, LangChain, OpenAI, and vector databases
+• Deploying on AWS, Azure, and GCP with Docker, Kubernetes, and CI/CD pipelines
+• Implementing MLOps workflows via SageMaker, MLflow, and Kubeflow
 
-🌱 I believe in continuous learning and staying up-to-date with the latest trends and best practices in software development. Whether it's experimenting with new frameworks, diving deep into AI algorithms, or refining my coding skills, I'm always eager to expand my knowledge and push the boundaries of what's possible.
+Currently, I’m focused on building agentic AI systems and Python-first intelligent applications that enable real-time reasoning, decision-making, and automation across domains.
 
-🔬 My current repositories consist of machine learning projects and a React demo, with plans to add more full-stack projects in the near future. Let's collaborate and build something awesome together!
-
-📫 Feel free to explore my repositories and reach out if you'd like to discuss ideas, share insights, or just geek out about all things tech.
+If you're working on applied AI, intelligent automation, or backend-heavy innovation—let’s connect.
