@@ -18,16 +18,16 @@ My current focus is on building **agentic AI systems** and **Python-first intell
 Python, JavaScript, TypeScript, SQL, HTML, CSS
 
 **Frameworks & Libraries:**  
-Django, FastAPI, Flask, React, Vue.js, Unity, LangChain, OpenAI, scikit-learn, TensorFlow
+Django, FastAPI, Flask, React, Angular, Unity, LangChain, OpenAI, scikit-learn, TensorFlow
 
 **APIs & Architecture:**  
 RESTful APIs, GraphQL, Microservices Architecture
 
 **Cloud & DevOps:**  
-AWS, Azure, GCP, Docker, Kubernetes, CI/CD
+AWS, Azure, Docker, Kubernetes, CI/CD
 
 **MLOps & AI Tools:**  
-SageMaker, MLflow, Kubeflow, Vector Databases
+SageMaker, MLflow, Vector Databases
 
 **Databases:**  
 MySQL, PostgreSQL, SQLite
@@ -63,12 +63,12 @@ MySQL, PostgreSQL, SQLite
 - **Master of Science (MS) in Artificial Intelligence**  
   *Kent State University*  
   _Sep 2022 – Dec 2023_  
-  Focus: Artificial Intelligence, Computer Vision, and Applied Machine Learning
+  Focus: Artificial Intelligence, Computer Vision, and Applied Machine Learning, Data Mining
 
 - **Bachelor of Technology (B.Tech) in Computer Science**  
   *Vivekananda Institute of Technology*  
   _2014 – 2018_  
-  Coursework included: HTML5, Linux, Data Structures, and Software Engineering
+  Coursework included: HTML5, Linux, Data Structures, Software Engineering, and Advanced Database Management System
 
 ---
 
@@ -76,7 +76,7 @@ MySQL, PostgreSQL, SQLite
 
 💬 I enjoy collaborating on **AI innovation**, **intelligent automation**, and **backend-heavy systems**.  
 📫 Reach out via GitHub or [LinkedIn](https://www.linkedin.com/in/sangeeta-kumawat/)  
-📈 ![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blue)
+📈 ![Profile Views](https://komarev.com/ghpvc/?username=sangeeta27&color=blue)
 
 ---
 
